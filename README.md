@@ -9,7 +9,7 @@ Cars heat up quickly. A vehicle can heat up 20 degrees in just 10 minutes. The b
 
 So never leave a child or pet alone in a motor vehicle.
 
-Do Not Leave is a free app to alert the driver that a child or pet may have been left in the motor vehicle. It uses a combination of advanced location and motion technologies that are available on the latest Apple iOS based devices to alert drivers.
+Do Not Leave is a free Apple iOS app to alert the driver that a child or pet may have been left in the motor vehicle. It uses a combination of advanced location and motion technologies that are available on the latest Apple iOS based devices to alert drivers.
 
 # How it works ?
 
