@@ -25,23 +25,33 @@ Note: I don't have time to maintain this app. It's no longer available in app st
 
 ### Set drop-off time
 
-![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/4a4d68f2-a4b3-463c-b459-31b3717a7de5)
+|  |
+| --- |
+| ![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/4a4d68f2-a4b3-463c-b459-31b3717a7de5) |
 
 ###  Toggle Start/Stop Alert switch to start alerting. Read and accept WARNING message
 
-![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/998340e0-c6c8-4a86-b133-45106c9c5c0e)
+|  |
+| --- |
+| ![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/998340e0-c6c8-4a86-b133-45106c9c5c0e) |
 
 ### Select OK to allow this app to send you notifications
 
-![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/70bc8b26-c0a9-416a-82a8-a0eb79e0aa6c)
+|  |
+| --- |
+| ![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/70bc8b26-c0a9-416a-82a8-a0eb79e0aa6c) |
 
 ### Allow this app to access your motion and fitness activity to determine your driving status
 
-![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/0e29e85f-4f3c-4da1-b5b8-df38a0bf15f3)
+|  |
+| --- |
+| ![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/0e29e85f-4f3c-4da1-b5b8-df38a0bf15f3) |
 
 ### Allow this app to access your location even when you are not using this app.
 
-![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/79c035d8-1fb7-476a-87f7-27b0fb7a12a2)
+|  |
+| --- |
+| ![image](https://github.com/sendtorrk/donotleave_app/assets/48602530/79c035d8-1fb7-476a-87f7-27b0fb7a12a2) |
 
 That's it. You can now close the app. The Do Not Leave app will continuously process your location and motion information in the background to alert you. You don't have to even remember to run this app before you start driving!
 
