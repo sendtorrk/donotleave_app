@@ -11,11 +11,9 @@ So never leave a child or pet alone in a motor vehicle.
 
 Do Not Leave is a free Apple iOS app to alert the driver that a child or pet may have been left in the motor vehicle. It uses a combination of advanced location and motion technologies that are available on the latest Apple iOS based devices to alert drivers.
 
+Note: I don't have time to maintain this app. It's no longer available for download from the app store.
+
 # How it works ?
-
-### Download the app from app store
-
-Note: I don't have time to maintain this app. It's no longer available in app store.
 
 ### Launch the app
 
